@@ -3,5 +3,6 @@ Umur : 20
 Alamat : Samata
 Asal Kampus : UIN Alauddin Samata
 Jurusan : Teknik Informatika
+Cita-Cita : Fullstack Developer
 
 Planning Belajar

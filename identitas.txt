@@ -1,4 +1,7 @@
 Nama : Muammar
 Umur : 20
 Alamat : Samata
-Asal Kampus : UIN Alauddin Samata
+Jurusan : Sistem Informasi
+Cita-Cita : Fullstack Developer
+
+Planning Kerja
